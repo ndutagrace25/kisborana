@@ -7,7 +7,7 @@
 		</div>
 		<div class="form-row">
 			<div class="form-group col-md-3">
-				<label for='maximum_loan_amount'>Maximum loan amount: </label>
+				<label for='maximum_loan_amount'>Maximum loans amount: </label>
 				<input type="number" name="maximum_loan_amount" class="form-control">
 			</div>
 			<div class="form-group col-md-3">

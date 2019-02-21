@@ -15,7 +15,7 @@
 				<input type="number" name="minimum_loan_amount" class="form-control">
 			</div>
 			<div class="form-group col-md-3">
-				<label for='custom_loan_amount'>Custom loan amount: </label>
+				<label for='custom_loan_amount'>Custom loan amounts: </label>
 				<input type="number" name="custom_loan_amount" class="form-control">
 			</div>
 		</div>
